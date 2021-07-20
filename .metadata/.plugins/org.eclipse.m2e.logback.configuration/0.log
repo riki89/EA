@@ -1,0 +1,14 @@
+2021-07-20 14:31:48,777 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-20 14:32:18,814 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.miu.cs.cs544:exercise02-1:1.0.0-SNAPSHOT @ /Users/macbookpro/Documents/MIU/EA/Labs/exercise02-1/pom.xml.
+2021-07-20 14:32:19,930 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise02-1/src/main/java
+2021-07-20 14:32:19,932 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise02-1/src/test/java
+2021-07-20 14:32:20,153 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2021-07-20 14:32:25,082 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-20 14:32:25,083 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macbookpro/Documents/MIU/EA/Labs/exercise02-1/src/main/resources
+2021-07-20 14:32:25,086 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-20 14:32:25,086 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macbookpro/Documents/MIU/EA/Labs/exercise02-1/src/test/resources
+2021-07-20 14:33:31,237 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-20 14:33:31,238 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macbookpro/Documents/MIU/EA/Labs/exercise02-1/src/main/resources
+2021-07-20 14:33:31,241 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-20 14:33:31,242 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macbookpro/Documents/MIU/EA/Labs/exercise02-1/src/test/resources
+2021-07-20 14:54:56,697 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
